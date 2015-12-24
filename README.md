@@ -1,1 +1,1 @@
-# NServiceBus.AcceptanceTesting
+# NServiceBus.IntegrationTesting
